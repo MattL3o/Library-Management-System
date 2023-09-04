@@ -1,0 +1,33 @@
+Basic Class Layout												- Jacob
+Binary Sorted Tree Template										- Jacob
+Linked List Template											- Jacob
+Clock															- Jacob
+Date															- Jacob
+User file input													- Jacob
+Book and copy file input										- Jacob
+Login															- Jacob
+Secondary Search in BST - (For book (author, title, category))	- Jacob
+Secondary Search in BST for Book Copy by ID						- Jacob
+Reserve Function 												- Matt
+Cancel Reservation Function										- Matt
+Return Book Function											- Matt
+Search User Function											- Matt
+Search Function and Sorting										- Jacob
+Generic Quicksort Function										- Jacob
+Date Class and Implementation									- Jacob
+View Checked Out Books											- Jacob
+Borrow Book														- Jacob
+Renew Book														- Jacob
+My Information													- Jacob
+Add Books Function												- Matt
+Delete Books Function											- Matt
+Add Users Function												- Matt
+My Information													- Jacob
+Change Password													- Jacob
+Delete Users Function											- Matt
+My Information for Librarian									- Matt
+Change Password for Librarian									- Matt
+Rewrite Files on Program Exit									- Jacob
+I'm Feeling Lucky												- Matt/Josh
+Delete Reservation After 5 Days									- Jacob
+Overloading Operators << and >>									- Matt/Josh/Jacob

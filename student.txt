@@ -1,0 +1,17 @@
+2	Jimmy	Librarian
+2	boss	bosspass
+2	jim	new_user
+2	librarian	password
+0	HaHa	7012
+1	James	23
+1	Jay-Z	music
+0	student	password
+1	teacher	password
+1	tom	tomtom
+0	stu1	pass
+0	stu2	pass
+0	stu3	pass
+0	stu4	pass
+0	stu5	pass
+0	stu6	pass
+0	stu7	pass
